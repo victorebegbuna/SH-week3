@@ -1,0 +1,96 @@
+
+
+.mainbody{
+    position: absolute;
+    background-color: blueviolet;
+    height: 710px;
+    width: 1400px;
+    left: 70px;
+    
+}
+
+.desktop-img{
+    position: absolute;
+top: 19px;
+margin-top: -15px;
+left: 70px;
+  
+}
+
+.logo{
+    margin-left: 90px;
+}
+
+.build{
+    margin-left: 850px;
+    margin-top: -400px;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.illustration{
+    position: relative;
+    top: 90px;
+    left: 100px;
+    
+    
+}
+
+.huddle{
+    position: absolute;
+    margin-left: 850px;
+    color: white;
+    font-size: larger;
+
+}
+
+/* .register{
+    margin-left: 850px;
+    margin-top: 100px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(240, 108, 240);
+    border-radius: 20px;
+    border: 0px;
+    box-shadow: 2px 2px 2px;
+    
+
+} */
+
+.registration{
+    position: absolute;
+    background-color: rgb(240, 108, 240);
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    left: 65%;
+    top: 65%;
+    padding-top: 10px;
+    text-align: center;
+    
+}
+
+.text-btn{
+    color: white;
+    margin-top: 3px;
+   
+    
+}
+
+.click{
+    margin-left: 62%;
+    margin-top: 10%;
+    color: white;
+    font-size: larger;
+    
+
+}
+
+.icons{
+    position: absolute;
+    bottom: 40px;
+    right: 100px;
+    
+
+}
